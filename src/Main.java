@@ -20,6 +20,5 @@ public class Main {
             System.out.println("Go program....");
             System.out.println("-----------------");
         }
-
     }
 }
